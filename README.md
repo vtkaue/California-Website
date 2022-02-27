@@ -1,10 +1,10 @@
-# California-Website
+# Califórnia-Website
 
 
 
-<img src="./assets/California-image.png"  widht="250px" alt="California-image">
+<img src="./assets/Califórnia-image.png"  widht="250px" alt="Califórnia-image">
 
->  California-Website finalized
+>  Califórnia-Website finalized
 
 ### Adjustments and improvements
 
